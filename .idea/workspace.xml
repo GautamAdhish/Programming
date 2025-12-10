@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4c5bd96-9167-4133-a882-117289f602ed" name="Changes" comment="" />
+    <list default="true" id="d4c5bd96-9167-4133-a882-117289f602ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Programming" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -40,25 +44,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.forloop2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.homework.executor&quot;: &quot;Run&quot;,
-    &quot;Application.homework2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nestedloop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nestedloop2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.try1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.whileloop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.whileloop2.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/osiris/Tutorial/Programming&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.forloop2.executor": "Run",
+    "Application.homework.executor": "Run",
+    "Application.homework2.executor": "Run",
+    "Application.nestedloop.executor": "Run",
+    "Application.nestedloop2.executor": "Run",
+    "Application.q1.executor": "Run",
+    "Application.try1.executor": "Run",
+    "Application.whileloop.executor": "Run",
+    "Application.whileloop2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/osiris/Tutorial/Programming",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d4c5bd96-9167-4133-a882-117289f602ed" name="Changes" comment="" />
@@ -66,7 +73,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764743770082</updated>
+      <workItem from="1764953980584" duration="103000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
